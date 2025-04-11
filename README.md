@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou gabriel Souza
 - 👀 Quero me tornar um fullstack
-- 🌱 Estou no momento estudando javascript
+- 🌱 Estou no momento estudando python
 - 💻 Ainda estou desenvolvendo meu perfil
 - Carregando ...
 <!---
